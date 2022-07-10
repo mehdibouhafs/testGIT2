@@ -1,3 +1,3 @@
 # testGIT2
 
-ok
+ok ok
